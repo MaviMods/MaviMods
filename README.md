@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm RUPESH</h1>
-<h3 align="center">A small telegram & discord bot developer</h3>
+<h1 align="center">Hi 👋, I'm MAVI</h1>
+<h3 align="center">Everything just for Fun💀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mavimods&label=Profile%20views&color=0e75b6&style=flat" alt="mavimods" /> </p>
 
