@@ -9,8 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/manavalan.og" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="manavalan.og" height="30" width="40" /></a>
-<a href="https://youtube.com/@manavalanog?si=jWwSrvx02zVdiCSv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="manavalan gaming" height="30" width="40" /></a>
+<a href="https://instagram.com/manavalan.og" target="blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/2018-social-media-logotypes/1000/2018_social_media_popular_app_logo_instagram-1024.png" alt="manavalan.og"  height="40" width="40"/></a> 
+<a href="https://youtube.com/@manavalanog?si=jWwSrvx02zVdiCSv" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Youtube.png" alt="manavalan gaming" height="40" width="40"/></a> 
+<a href="https://t.me/MODSMAVI" target="blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Telegram.png" alt="MaviMods" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
